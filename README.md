@@ -159,8 +159,11 @@ Frontend-focused developer currently completing a **Diploma in Application Devel
 ---
 <h2 align="left"> Mock Interview </h2>
 
-  https://github.com/user-attachments/assets/d049f6ae-8e86-481c-b60a-e88fc1dca972
-
+<a>
+  
+  https://github.com/user-attachments/assets/d049f6ae-8e86-481c-b60a-e88fc1dca972 
+  
+</a>
 ---
 
 
