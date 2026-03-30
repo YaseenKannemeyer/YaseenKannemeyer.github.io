@@ -5,6 +5,9 @@
 <p><b>Frontend Developer & Software Specialist</b></p>
 
 <p> 📍  Cape Town, South Africa</p>
+<a href="https://github.com/YaseenKannemeyer/YaseenKannemeyer.github.io/raw/main/Mogamat_Yaseen_Kannemeyer_Student_CV.pdf">
+  <img src="https://img.shields.io/badge/Download%20CV-FF5733?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV"/>
+</a>
 
 <p>
   <a href="https://mogamat-yaseen-kannemeyer.vercel.app/">
