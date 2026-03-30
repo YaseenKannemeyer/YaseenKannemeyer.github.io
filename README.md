@@ -164,6 +164,7 @@ Frontend-focused developer currently completing a **Diploma in Application Devel
   https://github.com/user-attachments/assets/d049f6ae-8e86-481c-b60a-e88fc1dca972 
   
 </a>
+
 ---
 
 
