@@ -157,12 +157,10 @@ Frontend-focused developer currently completing a **Diploma in Application Devel
 | Nabuweya Hector | Warehouse Manager, Violet Poppy Trading | +27 82 851 3174 |
 
 ---
-<h2 align="left"> Mock Interview </h2>
+## Mock Interview 
 
-<a>
-  
-  https://github.com/user-attachments/assets/d049f6ae-8e86-481c-b60a-e88fc1dca972 
-  
+<a href="https://drive.google.com/file/d/1IRIvBmRyJPONemBd5cYV8hGGGRmufpUM/view?usp=sharing" target="_blank">
+  Mock Interview
 </a>
 
 ---
