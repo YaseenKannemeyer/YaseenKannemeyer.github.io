@@ -1,3 +1,9 @@
+**Frontend Developer · Software Specialist**
+
+📍 Cape Town, South Africa  
+📧 240453182@mycput.ac.za  
+📞 083-926-3595  
+
 <table>
 <tr>
 <td width="50%" valign="top">
