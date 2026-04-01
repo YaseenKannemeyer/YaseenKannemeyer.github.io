@@ -2,7 +2,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<h2>🧠 Overview</h2>
+<h2>Overview</h2>
 
 <p>
 Frontend-focused IT professional completing a Diploma in Application Development. 
@@ -10,7 +10,7 @@ Experienced in building <b>responsive, interactive UI components</b> using moder
 Strong foundation in backend development and databases, with a focus on clean architecture and debugging.
 </p>
 
-<h2>🛠 Tech Stack</h2>
+<h2>Tech Stack</h2>
 
 <p><b>Languages</b><br>
 Java · SQL · HTML · CSS · JavaScript · TypeScript
@@ -36,7 +36,7 @@ Git · GitHub · VS Code · IntelliJ · NPM · Vercel
 Figma · Canva
 </p>
 
-<h2>🎓 Education</h2>
+<h2>Education</h2>
 
 <p>
 <b>Cape Peninsula University of Technology</b><br>
@@ -52,7 +52,7 @@ NCV Level 4 IT & Computer Science (2020 – 2022)
 
 <td width="50%" valign="top">
 
-<h2>💼 Work Experience</h2>
+<h2>Work Experience</h2>
 
 <p>
 <b>Clicks – Garden Center, CPT</b><br>
@@ -68,33 +68,7 @@ Warehouse Assistant (Dec 2022 – Jan 2024)<br>
 - Worked with major retail clients
 </p>
 
-<h2>🚀 Projects</h2>
-
-<p>
-<b>Mlangeni Grand Hospitality Catering (2026 – Ongoing)</b><br>
-Team-based catering website project
-</p>
-
-<p>
-<b>Nike ACG Web App (2026)</b><br>
-Built with React & TailwindCSS
-</p>
-
-<p>
-<b>Campus Companion (2025)</b><br>
-Java Swing desktop app for students
-</p>
-
-<p>
-<b>AfriHack Connect Portal (2025)</b><br>
-Hackathon team project
-</p>
-
-<p>
-🔗 <a href="https://github.com/YaseenKannemeyer">View More Projects</a>
-</p>
-
-<h2>📞 References</h2>
+<h2>References</h2>
 
 <p>
 <b>Amiena Toefy</b><br>
