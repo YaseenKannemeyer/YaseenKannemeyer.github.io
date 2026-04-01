@@ -1,91 +1,112 @@
-<div align="center">
-
-# Mogamat Yaseen Kannemeyer
-
-**Frontend Developer · Software Specialist**
-
-📍 Cape Town, South Africa  
-📧 240453182@mycput.ac.za  
-📞 083-926-3595  
-
-
-</div>
-
----
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-##  Overview
+<h2>🧠 Overview</h2>
 
-Frontend-focused IT professional completing a Diploma in Application Development.  
-
-Experienced in building **responsive, interactive UI components** using modern frameworks.  
-
+<p>
+Frontend-focused IT professional completing a Diploma in Application Development. 
+Experienced in building <b>responsive, interactive UI components</b> using modern frameworks.
 Strong foundation in backend development and databases, with a focus on clean architecture and debugging.
+</p>
 
----
+<h2>🛠 Tech Stack</h2>
 
-## 🛠 Tech Stack
+<p><b>Languages</b><br>
+Java · SQL · HTML · CSS · JavaScript · TypeScript
+</p>
 
-**Languages**  
-- Java · SQL · HTML · CSS · JavaScript · TypeScript  
+<p><b>Frontend</b><br>
+React · Next.js · TailwindCSS · Shadcn/ui
+</p>
 
-**Frontend**  
-- React · Next.js · TailwindCSS · Shadcn/ui  
+<p><b>Backend</b><br>
+Java · Node.js · PHP · Laravel
+</p>
 
-**Backend**  
-- Java · Node.js · PHP · Laravel  
+<p><b>Database</b><br>
+PostgreSQL · Supabase · MySQL
+</p>
 
-**Database**  
-- PostgreSQL · Supabase · MySQL  
+<p><b>Tools</b><br>
+Git · GitHub · VS Code · IntelliJ · NPM · Vercel
+</p>
 
-**Tools**  
-- Git · GitHub · VS Code · IntelliJ · NPM · Vercel  
+<p><b>Design</b><br>
+Figma · Canva
+</p>
 
-**Design**  
-- Figma · Canva  
+<h2>🎓 Education</h2>
 
----
+<p>
+<b>Cape Peninsula University of Technology</b><br>
+Diploma in Application Development (2024 – Present)
+</p>
 
-##  Education
-
-**Cape Peninsula University of Technology**  
-*Diploma in Application Development (2024 – Present)*  
-
-**False Bay TVET College**  
-*NCV Level 4 IT & Computer Science (2020 – 2022)*  
+<p>
+<b>False Bay TVET College</b><br>
+NCV Level 4 IT & Computer Science (2020 – 2022)
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
+<h2>💼 Work Experience</h2>
 
+<p>
+<b>Clicks – Garden Center, CPT</b><br>
+Retail Assistant (Nov 2024 – Jan 2025)<br>
+- Customer service & retail support<br>
+- Maintained efficiency during peak season
+</p>
 
-## Work Experience
+<p>
+<b>Violet Poppy Trading – Epping, CPT</b><br>
+Warehouse Assistant (Dec 2022 – Jan 2024)<br>
+- Garment processing & packaging<br>
+- Worked with major retail clients
+</p>
 
-**Clicks – Garden Center, CPT**  
-*Retail Assistant (Nov 2024 – Jan 2025)*  
-- Customer service & retail support  
-- Maintained efficiency during peak season  
+<h2>🚀 Projects</h2>
 
-**Violet Poppy Trading – Epping, CPT**  
-*Warehouse Assistant (Dec 2022 – Jan 2024)*  
-- Garment processing & packaging  
-- Worked with major retail clients  
+<p>
+<b>Mlangeni Grand Hospitality Catering (2026 – Ongoing)</b><br>
+Team-based catering website project
+</p>
 
----
+<p>
+<b>Nike ACG Web App (2026)</b><br>
+Built with React & TailwindCSS
+</p>
 
-## References
+<p>
+<b>Campus Companion (2025)</b><br>
+Java Swing desktop app for students
+</p>
 
-**Amiena Toefy**  
-Store Manager – Clicks  
-+27 76 860 9657  
+<p>
+<b>AfriHack Connect Portal (2025)</b><br>
+Hackathon team project
+</p>
 
-**Nabuweya Hector**  
-Warehouse Manager – Violet Poppy Trading  
-+27 82 851 3174  
+<p>
+🔗 <a href="https://github.com/YaseenKannemeyer">View More Projects</a>
+</p>
+
+<h2>📞 References</h2>
+
+<p>
+<b>Amiena Toefy</b><br>
+Store Manager – Clicks<br>
++27 76 860 9657
+</p>
+
+<p>
+<b>Nabuweya Hector</b><br>
+Warehouse Manager – Violet Poppy Trading<br>
++27 82 851 3174
+</p>
 
 </td>
 </tr>
