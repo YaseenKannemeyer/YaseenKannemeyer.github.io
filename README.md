@@ -94,9 +94,11 @@ Warehouse Manager – Violet Poppy Trading<br>
 
 ## Mock Interview Video
 
-<iframe 
-  src="https://drive.google.com/file/d/1IRIvBmRyJPONemBd5cYV8hGGGRmufpUM/preview" 
-  width="640" 
-  height="360" 
-  allow="autoplay">
-</iframe>
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+  <iframe 
+    src="https://drive.google.com/file/d/1IRIvBmRyJPONemBd5cYV8hGGGRmufpUM/preview" 
+    width="640" 
+    height="360" 
+    allow="autoplay">
+  </iframe>
+</div>
