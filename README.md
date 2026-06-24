@@ -6,6 +6,24 @@
 
 ---
 
+### 📌 Table of Contents
+* [👋 About Me](#about-me)
+* [📄 Curriculum Vitae](#cv)
+  * [🌟 Professional Summary](#summary)
+  * [💻 Technical Skills](#skills)
+  * [🎓 Education](#education)
+  * [💼 Work Experience](#experience)
+  * [📞 References](#references)
+* [🎥 Mock Interview Video](#video)
+* [📝 Academic & Practical Reflections](#reflections)
+  * [⭐ Reflection: Coding in Markdown](#ref-markdown)
+  * [⭐ Reflection: Mock Interview Experience](#ref-interview)
+  * [⭐ Reflection: GitHub Pages Deployment](#ref-ghpages)
+* [🚀 Career Goals](#goals)
+
+---
+
+<a name="about-me"></a>
 ## 👋 About Me
 
 I am a passionate and dedicated Information Technology student currently pursuing a **Diploma in Application Development** at the Cape Peninsula University of Technology (CPUT). I enjoy creating responsive, interactive web applications and continuously expanding my knowledge of modern software development technologies.
@@ -14,11 +32,14 @@ My core interests include frontend development, backend systems, database manage
 
 ---
 
+<a name="cv"></a>
 ## 📄 Curriculum Vitae
 
+<a name="summary"></a>
 ### 🌟 Professional Summary
 Frontend-focused IT professional completing a Diploma in Application Development. Experienced in building responsive and interactive user interfaces using modern frameworks. Strong foundation in backend development and databases, with a focus on clean architecture, debugging, and software engineering principles.
 
+<a name="skills"></a>
 ### 💻 Technical Skills
 
 | Category | Technologies |
@@ -30,6 +51,7 @@ Frontend-focused IT professional completing a Diploma in Application Development
 | **Tools & Hosting** | Git, GitHub, VS Code, IntelliJ IDEA, NPM, Vercel |
 | **Design** | Figma, Canva |
 
+<a name="education"></a>
 ### 🎓 Education
 
 #### **Cape Peninsula University of Technology (CPUT)**
@@ -38,6 +60,7 @@ Frontend-focused IT professional completing a Diploma in Application Development
 #### **False Bay TVET College**
 *NCV Level 4 – Information Technology and Computer Science* 📅 **2020 – 2022**
 
+<a name="experience"></a>
 ### 💼 Work Experience
 
 #### **Clicks – Garden Centre, Cape Town**
@@ -54,6 +77,7 @@ Frontend-focused IT professional completing a Diploma in Application Development
 * Worked efficiently under pressure to consistently meet production deadlines.
 * Demonstrated exceptional teamwork and sharp attention to detail.
 
+<a name="references"></a>
 ### 📞 References
 
 * **Amiena Toefy** *Store Manager – Clicks* 📞 Phone: +27 76 860 9657  
@@ -61,10 +85,11 @@ Frontend-focused IT professional completing a Diploma in Application Development
 * **Nabuweya Hector** *Warehouse Manager – Violet Poppy Trading* 📞 Phone: +27 82 851 3174  
 
 ---
+
+<a name="video"></a>
 ## 🎥 Mock Interview Video
 
 The following video demonstrates my communication skills, professionalism, and readiness for the software industry.
-
 
 <div style="display: flex; justify-content: center; margin-top: 20px;">
   <iframe 
@@ -77,9 +102,10 @@ The following video demonstrates my communication skills, professionalism, and r
 
 ---
 
-
+<a name="reflections"></a>
 ## 📝 Academic & Practical Reflections
 
+<a name="ref-markdown"></a>
 ### ⭐ Reflection: Coding in Markdown
 > **Situation:** As part of the Project Presentation assessment, I was required to create a professional digital portfolio using GitHub and Markdown.
 >
@@ -89,6 +115,7 @@ The following video demonstrates my communication skills, professionalism, and r
 >
 > **Result:** I successfully created a professional online portfolio and developed valuable technical documentation skills that I can directly apply to future software engineering workflows, such as crafting robust `README.md` files and technical documentation.
 
+<a name="ref-interview"></a>
 ### ⭐ Reflection: Mock Interview Experience
 > **Situation:** As part of the work readiness programme, I participated in a mock interview designed to simulate a real-world software industry job interview.
 >
@@ -98,6 +125,7 @@ The following video demonstrates my communication skills, professionalism, and r
 >
 > **Result:** The mock interview significantly improved my confidence and verbal communication skills. It also helped me identify strategic areas for growth and provided practical experience that will benefit me during upcoming industry job interviews.
 
+<a name="ref-ghpages"></a>
 ### ⭐ Reflection: GitHub Pages Deployment
 > **Situation:** I was required to publish my digital portfolio online using GitHub Pages.
 >
@@ -109,6 +137,7 @@ The following video demonstrates my communication skills, professionalism, and r
 
 ---
 
+<a name="goals"></a>
 ## 🚀 Career Goals
 
 My ultimate goal is to become a professional software developer specializing in frontend engineering and full-stack web development. I aim to continuously refine my technical skillset, contribute to high-impact software solutions, and engineer innovative, clean-coded applications that create authentic value for users and businesses alike.
