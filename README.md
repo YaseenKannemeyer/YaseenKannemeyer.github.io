@@ -2,7 +2,7 @@
 ### Frontend Developer | Software Specialist
 
 Cape Town, South Africa | [240453182@mycput.ac.za](mailto:240453182@mycput.ac.za) | 083-926-3595  
-[GitHub Profile](https://github.com/YaseenKannemeyer) | [Digital Portfolio Website](https://yaseenkannemeyer.github.io/) | [Download my CV (PDF)](Mogamat_Yaseen_Kannemeyer_Student_CV.pdf)
+[GitHub Profile](https://github.com/YaseenKannemeyer) | [Digital Portfolio Website](https://yaseenkannemeyer.github.io/) | [Download my CV (PDF)](Mogamat_Yaseen_Kannemeyer_Student_CV.pdf) | [Agile Portfolio of Evidence](agile-portfolio.md)
 
 ---
 
@@ -21,6 +21,7 @@ Cape Town, South Africa | [240453182@mycput.ac.za](mailto:240453182@mycput.ac.za
   * [Reflection: Coding in Markdown](#ref-markdown)
   * [Reflection: Mock Interview Experience](#ref-interview)
   * [Reflection: GitHub Pages Deployment](#ref-ghpages)
+* [Agile Portfolio of Evidence](#agile)
 * [Career Goals](#goals)
 
 ---
@@ -30,7 +31,7 @@ Cape Town, South Africa | [240453182@mycput.ac.za](mailto:240453182@mycput.ac.za
 
 I am an Information Technology student studying for a **Diploma in Application Development** at the Cape Peninsula University of Technology (CPUT). I enjoy building responsive, interactive web applications and learning new software development tools.
 
-I am most interested in frontend development, backend systems and databases, and in building applications that solve real problems for the people who use them. I want to gain industry experience and grow into a full-stack developer.
+I am most interested in frontend development, backend systems and databases, and in building applications that solve real problems for the people who use them. Since 4 August 2026 I have been an intern developer at Onsightapp, where I fix bugs and build features on the company's web consoles while I grow into a full-stack developer.
 
 ---
 
@@ -59,11 +60,12 @@ Frontend-focused IT student completing a Diploma in Application Development. Ski
 
 | Category | Technologies |
 | :--- | :--- |
-| Languages | Java, SQL, HTML, CSS, JavaScript, TypeScript |
-| Frontend | React, Vue, Next.js, TailwindCSS, Shadcn/ui |
-| Backend | Java, Node.js, PHP, Laravel |
+| Languages | Java, C#, SQL, HTML, CSS, JavaScript, TypeScript |
+| Frontend | React, Vue, Quasar, Next.js, TailwindCSS, Shadcn/ui |
+| Backend | Java, .NET (C#), Node.js, PHP, Laravel |
 | Databases | PostgreSQL, Supabase, MySQL |
-| Tools & Hosting | Git, GitHub, VS Code, IntelliJ IDEA, NPM, Vercel |
+| Testing | Playwright (end-to-end testing) |
+| Tools & Hosting | Git, GitHub, Jira, Confluence, Claude Code, VS Code, IntelliJ IDEA, NPM, Vercel |
 | Design | Figma, Canva |
 
 <a name="education"></a>
@@ -77,6 +79,13 @@ Frontend-focused IT student completing a Diploma in Application Development. Ski
 
 <a name="experience"></a>
 ### Work Experience
+
+#### Onsightapp
+*Intern Developer (Work-Integrated Learning)* | August 2026 – Present
+* Fix bugs on the company's new web console and its legacy web console and API, built with Quasar, Vue and .NET (C#).
+* Deliver customer-specific features, such as minimum order quantity (MOQ) settings for documents.
+* Write end-to-end tests with Playwright.
+* Work in a Kanban team that plans and tracks work in Jira, with finished work grouped into regular releases.
 
 #### Clicks, Garden Centre, Cape Town
 *Retail Assistant (Christmas Flexi, Health & Pharmacy Section)* | November 2024 – January 2025
@@ -158,6 +167,15 @@ If the video does not load, you can [download it from this repository](video/Moc
 > **Action:** I named my repository `YaseenKannemeyer.github.io`, which GitHub Pages publishes as my personal site at yaseenkannemeyer.github.io. The video was the hardest part. My first attempt used an HTML `<video>` tag, but the video did not play: the path pointed to a `videos` folder while the file was saved in `video`, and at 93 MB the file is close to GitHub's 100 MB file limit. I uploaded the video to Google Drive instead, embedded it with an `<iframe>` and centred it with a flex container. I then tested the links, the CV download and the video on the live site.
 >
 > **Result:** My portfolio is live at [yaseenkannemeyer.github.io](https://yaseenkannemeyer.github.io/). I learned how GitHub Pages turns a Markdown file into a website, why large media files are better hosted elsewhere, and how a small mistake in a file path can break a feature on a live page.
+
+---
+
+<a name="agile"></a>
+## Agile Portfolio of Evidence
+
+My second portfolio covers the Agile practices I have taken part in during my internship at Onsightapp: the team charter, user stories and tasks, the product backlog, the sprint backlog (Kanban equivalent) and my Agile logbook. Each section includes evidence from our Jira boards and a reflection.
+
+**[View my Agile Portfolio of Evidence](agile-portfolio.md)**
 
 ---
 
