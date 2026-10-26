@@ -19,7 +19,6 @@
 * [4. Sprint Backlog (Kanban Equivalent)](#sprint-backlog)
 * [5. Agile Logbook](#logbook)
 * [6. Conclusion: Connecting the Evidence](#conclusion)
-* [References](#references)
 
 ---
 
@@ -30,11 +29,11 @@ This portfolio brings together evidence of the Agile practices I have taken part
 
 My main role is fixing bugs on both consoles. More recently I have also been given customer-specific tasks. During the internship I learned Playwright for end-to-end testing and how to use MCPs (Model Context Protocol servers) to connect Claude to other tools. The team uses Claude Code heavily in its daily development work. I have learned to get the best out of it, while the team as a whole is still learning how to use it well.
 
-My team does not run full Scrum. We work in Kanban, a method that makes work visible on a board and limits how much is in progress at once (Anderson, 2010). There are no fixed sprints, and work moves across a board with the columns Backlog, Selected for Development, In Progress, Code Complete, Test Complete and Done. Finished work is grouped into numbered releases, and each release acts as our delivery timebox. Where this portfolio asks for Scrum artefacts such as a sprint backlog, I show the Kanban equivalent and explain the difference in the reflection.
+My team does not run full Scrum. We work in Kanban, a method that makes work visible on a board and limits how much is in progress at once. There are no fixed sprints, and work moves across a board with the columns Backlog, Selected for Development, In Progress, Code Complete, Test Complete and Done. Finished work is grouped into numbered releases, and each release acts as our delivery timebox. Where this portfolio asks for Scrum artefacts such as a sprint backlog, I show the Kanban equivalent and explain the difference in the reflection.
 
 The brief describes Trello as a Kanban tool. My team uses Jira instead, which works the same way: cards (tickets) move across columns on a visual board. The Jira boards in this portfolio are the equivalent of a Trello board.
 
-I built this portfolio using the four e-portfolio steps in the brief: collect, select, reflect and connect (CPUT, 2026). I collected screenshots from our Jira boards, releases and my work history, along with my notes on stand-ups and releases. From these I selected the artefacts that best show each of the five Agile practices in the rubric, using real tickets I worked on so that every claim can be checked against the evidence. Each section shows the evidence first, followed by a reflection on what I learned, and the conclusion connects the five sections.
+I built this portfolio using the four e-portfolio steps in the brief: collect, select, reflect and connect. I collected screenshots from our Jira boards, releases and my work history, along with my notes on stand-ups and releases. From these I selected the artefacts that best show each of the five Agile practices in the rubric, using real tickets I worked on so that every claim can be checked against the evidence. Each section shows the evidence first, followed by a reflection on what I learned, and the conclusion connects the five sections.
 
 *Names of colleagues and clients have been blurred in the screenshots. Click any screenshot to open it at full size.*
 
@@ -62,7 +61,7 @@ My team does not have a formal written charter. I drafted the charter below from
 
 ### Reflection
 
-A team charter is the set of agreements about how a team works together: how we communicate, how work flows, who does what and what “done” means. The brief describes it as a “living, co-created social contract” (CPUT, 2026). My team has never written one down, so I drafted this charter myself by observing how the team works in stand-ups, code reviews, the Jira workflow and our weekly routines. It reflects how the team operates in practice and has not been formally agreed by the team. My role in it is that of a team member who follows these agreements and, as an intern, is still learning them.
+A team charter is the set of agreements about how a team works together: how we communicate, how work flows, who does what and what “done” means. My team has never written one down, so I drafted this charter myself by observing how the team works in stand-ups, code reviews, the Jira workflow and our weekly routines. It reflects how the team operates in practice and has not been formally agreed by the team. My role in it is that of a team member who follows these agreements and, as an intern, is still learning them.
 
 Even without a written charter, the agreements clearly exist, and they matter because they keep a team with several developers and two products consistent. For example, every change goes through a pull request and is linked to its Jira ticket. Because of that, anyone can see who is working on what and why a change was made. This is especially important in our stack. We work with Quasar, Vue and .NET (C#), so one feature can touch both the front end and the API, and the ticket is where the two halves are tied together.
 
@@ -101,7 +100,7 @@ Our Jira tickets are written as tasks and bug titles, not in the formal “As a 
 
 ### Reflection
 
-User stories describe what a user needs and why (Cohn, 2004). Tasks are the smaller technical steps needed to deliver a story. In my team, Jira tickets are usually written as short task or bug titles, such as “Saving an order fails with null document type…”, rather than in the “As a… I want… so that…” format. My main role is fixing bugs on both consoles, and recently I have also been given customer-specific tasks. In both cases my job is to pick up a ticket, work out what the user actually needs, and break the work into steps I can complete and test.
+User stories describe what a user needs and why. Tasks are the smaller technical steps needed to deliver a story. In my team, Jira tickets are usually written as short task or bug titles, such as “Saving an order fails with null document type…”, rather than in the “As a… I want… so that…” format. My main role is fixing bugs on both consoles, and recently I have also been given customer-specific tasks. In both cases my job is to pick up a ticket, work out what the user actually needs, and break the work into steps I can complete and test.
 
 Clear stories matter because they give developers, testers and the release driver the same understanding of what “working” looks like. Without it, a tester cannot tell whether a fix is complete. It also matters for the automated tests I write in Playwright: a good acceptance criterion such as “the user sees a clear message if the draft no longer exists” translates almost directly into a test, whereas a vague ticket title does not.
 
@@ -140,7 +139,7 @@ The backlog is ordered from top to bottom, with the most important items at the 
 
 ### Reflection
 
-The product backlog is the ordered list of everything the team might work on: bugs, improvements and new features. The Scrum Guide calls it “an emergent, ordered list of what is needed to improve the product” (Schwaber & Sutherland, 2020). In my team it is the Backlog column of the Jira board. The new web console currently has 119 items in its backlog, and items move to Selected for Development when they are picked for upcoming work. My role is to add tickets when I find problems, and to pick up the backlog work assigned to me. I mainly fix bugs, so most of what I pull from the backlog is bug work, but now that I am also getting customer-specific tasks I can see how the same backlog has to hold both small fixes and requested features.
+The product backlog is the ordered list of everything the team might work on: bugs, improvements and new features. In my team it is the Backlog column of the Jira board. The new web console currently has 119 items in its backlog, and items move to Selected for Development when they are picked for upcoming work. My role is to add tickets when I find problems, and to pick up the backlog work assigned to me. I mainly fix bugs, so most of what I pull from the backlog is bug work, but now that I am also getting customer-specific tasks I can see how the same backlog has to hold both small fixes and requested features.
 
 The backlog matters because it stops ideas and bugs from getting lost and gives the team one place to decide priorities. It also protects the work in progress: when a new problem is logged instead of being fixed on the spot, the current ticket stays focused. The release driver then has something concrete to prioritise at release planning and does not have to rely on people’s memory.
 
@@ -177,7 +176,7 @@ My team works in Kanban and has no sprints. The closest equivalent to a sprint b
 
 ### Reflection
 
-In Scrum, the sprint backlog is made up of the sprint goal, the product backlog items selected for the sprint and a plan for delivering them (Schwaber & Sutherland, 2020). My team does not use sprints. We use Kanban, so work flows continuously across the board and is grouped into releases. Each release has a short goal in its description, such as “Bug-fixes” or “MOQ and MOV”, which works like a sprint goal. Its progress panel shows how many items are done, in progress or still to do. My role is to deliver the tickets assigned to me in each release.
+In Scrum, the sprint backlog is made up of the sprint goal, the product backlog items selected for the sprint and a plan for delivering them. My team does not use sprints. We use Kanban, so work flows continuously across the board and is grouped into releases. Each release has a short goal in its description, such as “Bug-fixes” or “MOQ and MOV”, which works like a sprint goal. Its progress panel shows how many items are done, in progress or still to do. My role is to deliver the tickets assigned to me in each release.
 
 This view matters because it shows what the team is focused on right now and whether a release is ready to ship. For the bug-fix release I contributed nine of the 27 items, all of which were completed before the release date.
 
@@ -185,7 +184,7 @@ One thing I learned from the board is how Kanban exposes bottlenecks. Both board
 
 Releases also suit customer-specific work well. A customer’s need can be given a release goal such as “MOQ and MOV” and a short list of items, and the progress bar shows whether the delivery is realistic. The risk is the dependency I noted in my logbook: the front-end MOQ ticket and the API ticket that exposes the settings must be released together, so a delay in one holds back the other.
 
-What I would do differently: I would watch the Code Complete column more closely and offer to help with testing when it grows. I would also suggest agreeing a work-in-progress limit for Code Complete (Anderson, 2010), so the team notices the queue before it delays a release.
+What I would do differently: I would watch the Code Complete column more closely and offer to help with testing when it grows. I would also suggest agreeing a work-in-progress limit for Code Complete, so the team notices the queue before it delays a release.
 
 ---
 
@@ -299,7 +298,7 @@ My team does not hold a formal retrospective after each release, so this is my p
 
 ### Reflection
 
-An Agile logbook records daily stand-ups, sprint plans and retrospective notes (CPUT, 2026). My daily entries answer the three stand-up questions: what I completed, what I plan to do next and what is blocking me. My team’s stand-ups are spoken and not written down, so I wrote this log myself, using my notes and my Jira history to keep the entries accurate.
+An Agile logbook records daily stand-ups, sprint plans and retrospective notes. My daily entries answer the three stand-up questions: what I completed, what I plan to do next and what is blocking me. My team’s stand-ups are spoken and not written down, so I wrote this log myself, using my notes and my Jira history to keep the entries accurate.
 
 The logbook matters for two reasons. For the team, the stand-up questions make blockers visible early. On my second day, saying I was missing test-environment details meant my mentor fixed it the same morning instead of me losing a day. For me, writing it down shows how quickly I am progressing and gives me evidence to look back on.
 
@@ -325,19 +324,6 @@ A second thread is the Definition of Done. Writing the charter made me realise t
 Across the internship, my growth shows in the logbook. In my first week I was learning Playwright and responding to my first code review. By October I was owning features across two products, taking on customer-specific tasks, and thinking about how work flows through the whole team. The biggest lesson I take from this portfolio is that Agile depends on making work visible, so problems can be found and fixed early.
 
 Going forward, I will take three things into my next role or project. First, I will keep all work visible on the board, including the small things. Second, I will write acceptance criteria before I start coding. Third, I will use tools like Claude Code and Playwright to deliver good work faster while still putting every change through review and testing. I would also like to keep sharing what I learn about these tools with the team at the dev share.
-
----
-
-<a name="references"></a>
-## References
-
-Anderson, D.J. 2010. *Kanban: successful evolutionary change for your technology business*. Sequim, WA: Blue Hole Press.
-
-Cohn, M. 2004. *User stories applied: for agile software development*. Boston: Addison-Wesley.
-
-CPUT (Cape Peninsula University of Technology). 2026. *Project Presentation 3 (PRP370S, PRP371S, PRP372S): Assessment 2, October 2026*. Unpublished assessment brief. Cape Town: Faculty of Informatics and Design.
-
-Schwaber, K. & Sutherland, J. 2020. *The Scrum Guide: the definitive guide to Scrum: the rules of the game*. [https://scrumguides.org/scrum-guide.html](https://scrumguides.org/scrum-guide.html) [26 October 2026].
 
 ---
 
